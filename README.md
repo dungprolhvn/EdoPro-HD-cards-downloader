@@ -21,8 +21,8 @@ This simple Python script download all HD card images from [YGOPRODeck](https://
 2. **Clone the repository:**
 
 ```bash
-git clone <your-repository-url>
-cd <repository-directory>
+git clone https://github.com/dungprolhvn/EdoPro-HD-cards-downloader.git
+cd EdoPro-HD-cards-downloader
 ```
 
 3. **Install dependencies:**
